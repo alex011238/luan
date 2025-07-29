@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CACHORRO QUENTE CPM GRANULADO NESSA MONTANHA */
+body {
+    background-image: linear-gradient(90deg,red,black);
+}
+
+P {
+  color:lightseagreen  
+}
